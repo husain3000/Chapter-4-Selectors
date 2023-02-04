@@ -1,0 +1,10 @@
+.important {
+    color: orange;
+   }
+   .warning {
+    color: blue;
+   }
+   .warning.important {
+    color: red;
+   }
+   
